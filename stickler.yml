@@ -28,19 +28,19 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>The_New_York_Times/.stickler.yml at nytimes · mkezmkez/The_New_York_Times</title>
-    <meta name="description" content="Project: Positioning and Floating Elements with HTML and CSS. - mkezmkez/The_New_York_Times">
+  <title>linters-config/.stickler.yml at master · microverseinc/linters-config</title>
+    <meta name="description" content="Contribute to microverseinc/linters-config development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/51313750?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="mkezmkez/The_New_York_Times" /><meta name="twitter:description" content="Project: Positioning and Floating Elements with HTML and CSS. - mkezmkez/The_New_York_Times" />
-    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/51313750?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="mkezmkez/The_New_York_Times" /><meta property="og:url" content="https://github.com/mkezmkez/The_New_York_Times" /><meta property="og:description" content="Project: Positioning and Floating Elements with HTML and CSS. - mkezmkez/The_New_York_Times" />
+    <meta name="twitter:image:src" content="https://avatars2.githubusercontent.com/u/22550229?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="microverseinc/linters-config" /><meta name="twitter:description" content="Contribute to microverseinc/linters-config development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars2.githubusercontent.com/u/22550229?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="microverseinc/linters-config" /><meta property="og:url" content="https://github.com/microverseinc/linters-config" /><meta property="og:description" content="Contribute to microverseinc/linters-config development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDQ1OTkxNDA2OmI2OTBhNGM3NTk2NjVkZGNjYTg4YmYxNzU3ZjAyMmE0M2M2OWY0NGNkY2ZjZjA3NWRhNjhiYzIyMTdkMWUwMWI=--ee4c616657a59284523d0b4ff035838d93dc5c44">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDQ1OTkxNDA2OjdhMTJhNDBlNjA4ODNhODczNzMxZjRlNjMzYmRhMWUxNThmZjQ5ZDJkYzhlODZlZGI1MWRhZTEyMjdlZjZjMzQ=--654d5f8e3f1ab65b47e9763da0da6bcfdc55ce92">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="963E:4FB9:10B895B:1A871B4:5D9B8621" data-pjax-transient>
+  <meta name="request-id" content="A1C0:5CE5:7A7202:C88BD6:5D9B8704" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="963E:4FB9:10B895B:1A871B4:5D9B8621" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="6011917982087305585" /><meta name="octolytics-actor-id" content="51313750" /><meta name="octolytics-actor-login" content="mkezmkez" /><meta name="octolytics-actor-hash" content="e02dd8f41d51a7703466c321e68fba9213aa98794ac8e0d467f0099f26b260f0" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="A1C0:5CE5:7A7202:C88BD6:5D9B8704" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="6011917982087305585" /><meta name="octolytics-actor-id" content="51313750" /><meta name="octolytics-actor-login" content="mkezmkez" /><meta name="octolytics-actor-hash" content="e02dd8f41d51a7703466c321e68fba9213aa98794ac8e0d467f0099f26b260f0" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,7 +70,7 @@
     <meta name="user-login" content="mkezmkez">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZDcwN2E5MmY1Y2YwYWZiM2NhMjgyZmRlOGM1Nzg3MjAwZTA4YzNhMjYxYmJhNjVlYjgzOTFlOWE2NmExN2VhNXx7InJlbW90ZV9hZGRyZXNzIjoiMTg5LjIwNS43MC4xMzciLCJyZXF1ZXN0X2lkIjoiOTYzRTo0RkI5OjEwQjg5NUI6MUE4NzFCNDo1RDlCODYyMSIsInRpbWVzdGFtcCI6MTU3MDQ3MzUxMywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ZjU2MjVhMTc2YjVmYmU0MGIzZTA0M2IzMTk0NWEwZGRiMDQ1ZTM1MmMxYjBjN2Y0MDBjYTM3ZWM0ZjAxYjhhNXx7InJlbW90ZV9hZGRyZXNzIjoiMTg5LjIwNS43MC4xMzciLCJyZXF1ZXN0X2lkIjoiQTFDMDo1Q0U1OjdBNzIwMjpDODhCRDY6NUQ5Qjg3MDQiLCJ0aW1lc3RhbXAiOjE1NzA0NzM3NDEsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="ACTIONS_V2_ON_MARKETPLACE,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -79,14 +79,14 @@
   <meta http-equiv="x-pjax-version" content="721aa45861b27f4416f6b3dce0bec24e">
   
 
-      <link href="https://github.com/mkezmkez/The_New_York_Times/commits/nytimes.atom" rel="alternate" title="Recent Commits to The_New_York_Times:nytimes" type="application/atom+xml">
+      <link href="https://github.com/microverseinc/linters-config/commits/master.atom" rel="alternate" title="Recent Commits to linters-config:master" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/mkezmkez/The_New_York_Times git https://github.com/mkezmkez/The_New_York_Times.git">
+  <meta name="go-import" content="github.com/microverseinc/linters-config git https://github.com/microverseinc/linters-config.git">
 
-  <meta name="octolytics-dimension-user_id" content="51313750" /><meta name="octolytics-dimension-user_login" content="mkezmkez" /><meta name="octolytics-dimension-repository_id" content="212239726" /><meta name="octolytics-dimension-repository_nwo" content="mkezmkez/The_New_York_Times" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="true" /><meta name="octolytics-dimension-repository_parent_id" content="210649106" /><meta name="octolytics-dimension-repository_parent_nwo" content="paulgureghian/The_New_York_Times" /><meta name="octolytics-dimension-repository_network_root_id" content="210649106" /><meta name="octolytics-dimension-repository_network_root_nwo" content="paulgureghian/The_New_York_Times" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="22550229" /><meta name="octolytics-dimension-user_login" content="microverseinc" /><meta name="octolytics-dimension-repository_id" content="174139697" /><meta name="octolytics-dimension-repository_nwo" content="microverseinc/linters-config" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="174139697" /><meta name="octolytics-dimension-repository_network_root_nwo" content="microverseinc/linters-config" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/mkezmkez/The_New_York_Times/blob/nytimes/.stickler.yml" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/microverseinc/linters-config/blob/master/css/.stickler.yml" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -146,7 +146,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="212239726" data-scoped-search-url="/mkezmkez/The_New_York_Times/search" data-unscoped-search-url="/search" action="/mkezmkez/The_New_York_Times/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="174139697" data-scoped-search-url="/microverseinc/linters-config/search" data-unscoped-search-url="/search" action="/microverseinc/linters-config/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -160,7 +160,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=ACcFOI4XQ9puJcDr9fGFB87DKYWlmuFanZ9thumeyQPSjKkwqHE1mmm9s8B3B9vdzJSJm/XGYV5Y2+ojz4kdhQ=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=QixHe5zzMWdbP7/Kn6SL7I4cdecGnKZEd2O7rgELKkOQh+tzupVHJ1ynzOEdUtU2jEvV+VbAJkCyJzwLJxz+xQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -313,7 +313,7 @@
       <img class="avatar" height="20" width="20" alt="@mkezmkez" src="https://avatars3.githubusercontent.com/u/51313750?s=60&amp;v=4" />
       mkezmkez
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FGOIP+2LqdkPkS05TTxTsTiaiYEf1dHs4UHqcitXwRxymOB4zlMFOF9bRioWEVuMMEWONAhMzwqV8+3FvurVRg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="GP5ZAogJKaY1P8E9MeFkhOuuOG4PID41w9LU1Ao0JP1+BTFFq9GFR2X1qi5qzGy543E/2xi5INO3YNNjn4kwpw==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -324,10 +324,10 @@
 
     <div class="Header-item Header-item--full flex-justify-center d-lg-none position-relative">
       <div class="css-truncate css-truncate-target width-fit position-absolute left-0 right-0 text-center">
-              <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-    <a class="Header-link" href="/mkezmkez">mkezmkez</a>
+              <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+    <a class="Header-link" href="/microverseinc">microverseinc</a>
     /
-    <a class="Header-link" href="/mkezmkez/The_New_York_Times">The_New_York_Times</a>
+    <a class="Header-link" href="/microverseinc/linters-config">linters-config</a>
 
 </div>
     </div>
@@ -369,10 +369,14 @@
   </a>
 
 
+  <div role="none" class="dropdown-divider"></div>
+  <div class="dropdown-header">
+    <span title="microverseinc/linters-config">This repository</span>
+  </div>
+    <a role="menuitem" class="dropdown-item" href="/microverseinc/linters-config/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
+      New issue
+    </a>
 
-  <a role="menuitem" class="dropdown-item" href="/new/project" data-ga-click="Header, create new project">
-    New project
-  </a>
 
   </details-menu>
 </details>
@@ -400,7 +404,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:51313750,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:51313750,&quot;client_id&quot;:&quot;1399758733.1561909617&quot;,&quot;originating_request_id&quot;:&quot;963E:4FB9:10B895B:1A871B4:5D9B8621&quot;,&quot;originating_url&quot;:&quot;https://github.com/mkezmkez/The_New_York_Times/blob/nytimes/.stickler.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/mkezmkez/The_New_York_Times/tree/nytimes&quot;}}" data-hydro-click-hmac="c8e50a6f55db7812db5fe55acd7d805812bb296baeb394d4310d03af01f3452b">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:22550229,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:51313750,&quot;client_id&quot;:&quot;1399758733.1561909617&quot;,&quot;originating_request_id&quot;:&quot;A1C0:5CE5:7A7202:C88BD6:5D9B8704&quot;,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/linters-config/blob/master/css/.stickler.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/microverseinc/linters-config/tree/master/css&quot;}}" data-hydro-click-hmac="3854833f118c4e82b0ce400b6534cdf689e26a2750a10aa5e9e312eacf5492d0">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -427,7 +431,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="8XVQr57dGMXJ3TWy+YEhjs0yyR2r9Qhns//vy9AHHWJH9zoCoVCshX56tRt1EsYVAkdDbM0PEKPydtRvtD9P0A==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="LY02UCx0OHymgpzpoyDCWycQX6QbmQpZNMlMXHph2j2bD1z9E/mMPBElHEAvsyXA6GXV1X1jEp11QHf4HlmIjw==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -547,17 +551,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-10-07T14:08:33-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-10-07T14:12:21-05:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-10-07T14:38:33-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-10-07T14:42:21-05:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-10-07T17:38:33-05:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-10-07T17:42:21-05:00">
             in 4 hours
           </button>
         </li>
@@ -608,7 +612,7 @@
     <div role="none" class="dropdown-divider"></div>
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3cMHLQs6t19g9KywsFmVxsvfVhYgeCbNjo3f/MZ9feS7OG9qKOIbvjA+x6PrdJ37wwBRozfhOCv6P9hLU8Bpvg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="35EPLpkdGBgej8LCgLkx/I0BiFR5dzegygSHfd5dIP25amdpusW0+U5FqdHblDnBhd6P4W7uKUa+toDKS+A0pw==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -643,6 +647,8 @@
 
 
 
+  
+
 
 
 
@@ -657,13 +663,17 @@
 
 
 
+    <li hidden>
+      <include-fragment src="/microverseinc/linters-config/used_by_count">
+</include-fragment>
+    </li>
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="sYQ0nkhPwF3VwnK4f3R1hEd5w/KP9eMQ+sYoO4djjjvOx7GJoGA2l/3lu/ZT3mQmfhi4LtRYvGsPowDRV1mtMw==" />      <input type="hidden" name="repository_id" value="212239726">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="3vuPV6kmBZXhjQpzNFj83up1WOX8800WW4GwVWRdcGqhuApAQQnzX8mqwz0Y8u180xQjOadeEm2u5Ji/tGdTYg==" />      <input type="hidden" name="repository_id" value="174139697">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:212239726,&quot;client_id&quot;:&quot;1399758733.1561909617&quot;,&quot;originating_request_id&quot;:&quot;963E:4FB9:10B895B:1A871B4:5D9B8621&quot;,&quot;originating_url&quot;:&quot;https://github.com/mkezmkez/The_New_York_Times/blob/nytimes/.stickler.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/mkezmkez/The_New_York_Times/tree/nytimes&quot;,&quot;user_id&quot;:51313750}}" data-hydro-click-hmac="298a8d099316bcf05ca69a2d3e5d5da0e6b0cc8ca2b1025f52904fade2043974" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:174139697,&quot;client_id&quot;:&quot;1399758733.1561909617&quot;,&quot;originating_request_id&quot;:&quot;A1C0:5CE5:7A7202:C88BD6:5D9B8704&quot;,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/linters-config/blob/master/css/.stickler.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/microverseinc/linters-config/tree/master/css&quot;,&quot;user_id&quot;:51313750}}" data-hydro-click-hmac="e335ee8b33fe01e94cc53a0993116855a980c1018aa16cf7d918f67bb7ff3d3b" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -725,58 +735,55 @@
         </details-menu>
       </details>
         <a class="social-count js-social-count"
-          href="/mkezmkez/The_New_York_Times/watchers"
-          aria-label="0 users are watching this repository">
-          0
+          href="/microverseinc/linters-config/watchers"
+          aria-label="4 users are watching this repository">
+          4
         </a>
 </form>
   </li>
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/mkezmkez/The_New_York_Times/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Va/MaWdEssLLii8g/+qU35bKz8hAVQzIk+Ls20jIvbRunBCmY7Vw1Xuu2KST+yYIXxRgJRDLT7Yq35JQOEcu7A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/microverseinc/linters-config/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZEW9qv0CTKAl3aCY25YHJ5OfqUf7asAcxNND0s1AL7hASouMbMFOUqkM8lBv6A/5WU81GM0mMV8ICGu3+YtD0Q==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar mkezmkez/The_New_York_Times" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:212239726,&quot;client_id&quot;:&quot;1399758733.1561909617&quot;,&quot;originating_request_id&quot;:&quot;963E:4FB9:10B895B:1A871B4:5D9B8621&quot;,&quot;originating_url&quot;:&quot;https://github.com/mkezmkez/The_New_York_Times/blob/nytimes/.stickler.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/mkezmkez/The_New_York_Times/tree/nytimes&quot;,&quot;user_id&quot;:51313750}}" data-hydro-click-hmac="595b747d769b554224313a0de8f892b4e74ae9dd248550f2207f36350424918c" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar microverseinc/linters-config" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:174139697,&quot;client_id&quot;:&quot;1399758733.1561909617&quot;,&quot;originating_request_id&quot;:&quot;A1C0:5CE5:7A7202:C88BD6:5D9B8704&quot;,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/linters-config/blob/master/css/.stickler.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/microverseinc/linters-config/tree/master/css&quot;,&quot;user_id&quot;:51313750}}" data-hydro-click-hmac="c99ee9d6b2ec0c133415b470d664484992e264522b866420aa96dd56c4738eeb" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
-</button>        <a class="social-count js-social-count" href="/mkezmkez/The_New_York_Times/stargazers"
-           aria-label="0 users starred this repository">
-           0
+</button>        <a class="social-count js-social-count" href="/microverseinc/linters-config/stargazers"
+           aria-label="14 users starred this repository">
+           14
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/mkezmkez/The_New_York_Times/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ba9R4FoyxOB0sLOptyWG37adXpRi11JfGHtNPKi9jE3xiN5PhRjknlzpDoDLsI+fegOJ1RVHU+wx+ESoMQV3Fw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/microverseinc/linters-config/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SV9pYcwWc6epYezLPXtlcbP9lW2wwXrpeE54sDoJ4bkxCCo42mUFYhKkokZXmsr0bkEMFde5vGEzxEA3P344LQ==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star mkezmkez/The_New_York_Times" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:212239726,&quot;client_id&quot;:&quot;1399758733.1561909617&quot;,&quot;originating_request_id&quot;:&quot;963E:4FB9:10B895B:1A871B4:5D9B8621&quot;,&quot;originating_url&quot;:&quot;https://github.com/mkezmkez/The_New_York_Times/blob/nytimes/.stickler.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/mkezmkez/The_New_York_Times/tree/nytimes&quot;,&quot;user_id&quot;:51313750}}" data-hydro-click-hmac="09dcb8740383a40b68107dd0fdc73351845f4c9148e1f0f4759ca69f327f6114" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star microverseinc/linters-config" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:174139697,&quot;client_id&quot;:&quot;1399758733.1561909617&quot;,&quot;originating_request_id&quot;:&quot;A1C0:5CE5:7A7202:C88BD6:5D9B8704&quot;,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/linters-config/blob/master/css/.stickler.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/microverseinc/linters-config/tree/master/css&quot;,&quot;user_id&quot;:51313750}}" data-hydro-click-hmac="81b6cd2b94c755c7097ed50436add5e20fea24fcf9a7e3e62096cf218e15734a" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
-</button>        <a class="social-count js-social-count" href="/mkezmkez/The_New_York_Times/stargazers"
-           aria-label="0 users starred this repository">
-          0
+</button>        <a class="social-count js-social-count" href="/microverseinc/linters-config/stargazers"
+           aria-label="14 users starred this repository">
+          14
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-        <span class="btn btn-sm btn-with-count disabled tooltipped tooltipped-sw" aria-label="Cannot fork because you own this repository and are not a member of any organizations.">
-          <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-          Fork
-</span>
-    <a href="/mkezmkez/The_New_York_Times/network/members" class="social-count"
-       aria-label="1 user forked this repository">
-      1
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/microverseinc/linters-config/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VNfDXqpNmyTeHjPVGHGi4OgfTTMF5q4T08oh8U2g+ltNNB3Z6gAiUJy/Xvsv1EsuxtJAc4hHYfXBC/+B7eCROA==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:174139697,&quot;client_id&quot;:&quot;1399758733.1561909617&quot;,&quot;originating_request_id&quot;:&quot;A1C0:5CE5:7A7202:C88BD6:5D9B8704&quot;,&quot;originating_url&quot;:&quot;https://github.com/microverseinc/linters-config/blob/master/css/.stickler.yml&quot;,&quot;referrer&quot;:&quot;https://github.com/microverseinc/linters-config/tree/master/css&quot;,&quot;user_id&quot;:51313750}}" data-hydro-click-hmac="cc5010e1b1ca79cf330eddb84eaca2c1f82d240cd1ab5f8cb8c2abf96a1e506a" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of microverseinc/linters-config to your account" aria-label="Fork your own copy of microverseinc/linters-config to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+              Fork
+</button></form>
+    <a href="/microverseinc/linters-config/network/members" class="social-count"
+       aria-label="40 users forked this repository">
+      40
     </a>
   </li>
 </ul>
 
       <h1 class="public ">
-    <svg class="octicon octicon-repo-forked" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/hovercards?user_id=51313750" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mkezmkez">mkezmkez</a></span><!--
+    <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/microverseinc/hovercard" href="/microverseinc">microverseinc</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/mkezmkez/The_New_York_Times">The_New_York_Times</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/microverseinc/linters-config">linters-config</a></strong>
   
 
-    <span class="fork-flag" data-repository-hovercards-enabled>
-      <span class="text">forked from <a data-hovercard-type="repository" data-hovercard-url="/paulgureghian/The_New_York_Times/hovercard" href="/paulgureghian/The_New_York_Times">paulgureghian/The_New_York_Times</a></span>
-    </span>
 </h1>
 
     </div>
@@ -788,44 +795,48 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /mkezmkez/The_New_York_Times/tree/nytimes" href="/mkezmkez/The_New_York_Times/tree/nytimes">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /microverseinc/linters-config" href="/microverseinc/linters-config">
       <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /microverseinc/linters-config/issues" href="/microverseinc/linters-config/issues">
+        <svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
+        <span itemprop="name">Issues</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="2">
+</a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /mkezmkez/The_New_York_Times/pulls" href="/mkezmkez/The_New_York_Times/pulls">
+    <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /microverseinc/linters-config/pulls" href="/microverseinc/linters-config/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">1</span>
+      <span class="Counter">0</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
 
-    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /mkezmkez/The_New_York_Times/projects" href="/mkezmkez/The_New_York_Times/projects">
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /microverseinc/linters-config/projects" href="/microverseinc/linters-config/projects">
       <svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
 
-    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /mkezmkez/The_New_York_Times/wiki" href="/mkezmkez/The_New_York_Times/wiki">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /microverseinc/linters-config/wiki" href="/microverseinc/linters-config/wiki">
       <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /mkezmkez/The_New_York_Times/network/alerts" href="/mkezmkez/The_New_York_Times/network/alerts">
+    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /microverseinc/linters-config/security/advisories" href="/microverseinc/linters-config/security/advisories">
       <svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"/></svg>
       Security
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /mkezmkez/The_New_York_Times/pulse" href="/mkezmkez/The_New_York_Times/pulse">
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /microverseinc/linters-config/pulse" href="/microverseinc/linters-config/pulse">
       <svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
       Insights
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings /mkezmkez/The_New_York_Times/settings" href="/mkezmkez/The_New_York_Times/settings">
-      <svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
-      Settings
-</a>
+
 </nav>
 
   <div class="reponav-wrapper reponav-small d-lg-none">
@@ -834,39 +845,49 @@
        itemtype="http://schema.org/BreadcrumbList">
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /mkezmkez/The_New_York_Times/tree/nytimes" href="/mkezmkez/The_New_York_Times/tree/nytimes">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /microverseinc/linters-config" href="/microverseinc/linters-config">
         <span itemprop="name">Code</span>
         <meta itemprop="position" content="1">
 </a>    </span>
 
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /microverseinc/linters-config/issues" href="/microverseinc/linters-config/issues">
+          <span itemprop="name">Issues</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="2">
+</a>      </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /mkezmkez/The_New_York_Times/pulls" href="/mkezmkez/The_New_York_Times/pulls">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /microverseinc/linters-config/pulls" href="/microverseinc/linters-config/pulls">
         <span itemprop="name">Pull requests</span>
-        <span class="Counter">1</span>
+        <span class="Counter">0</span>
         <meta itemprop="position" content="3">
 </a>    </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /mkezmkez/The_New_York_Times/projects" href="/mkezmkez/The_New_York_Times/projects">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /microverseinc/linters-config/projects" href="/microverseinc/linters-config/projects">
           <span itemprop="name">Projects</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="4">
 </a>      </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /mkezmkez/The_New_York_Times/wiki" href="/mkezmkez/The_New_York_Times/wiki">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /microverseinc/linters-config/wiki" href="/microverseinc/linters-config/wiki">
           <span itemprop="name">Wiki</span>
           <meta itemprop="position" content="5">
 </a>      </span>
 
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /mkezmkez/The_New_York_Times/network/alerts" href="/mkezmkez/The_New_York_Times/network/alerts">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /microverseinc/linters-config/security/advisories" href="/microverseinc/linters-config/security/advisories">
         <span itemprop="name">Security</span>
         <meta itemprop="position" content="6">
 </a>
-      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /mkezmkez/The_New_York_Times/pulse" href="/mkezmkez/The_New_York_Times/pulse">
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /microverseinc/linters-config/pulse" href="/microverseinc/linters-config/pulse">
         Pulse
 </a>
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /microverseinc/linters-config/community" href="/microverseinc/linters-config/community">
+          Community
+</a>      </span>
 
   </nav>
 </div>
@@ -883,9 +904,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mkezmkez/The_New_York_Times/blob/41189a57c5c39403cf73da078a19dcf3c6707090/.stickler.yml">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/microverseinc/linters-config/blob/d3f1673deb9f566bb93216631015d0eb69c64c6e/css/.stickler.yml">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:684b1f7838dea4d7261bff7ee559ec98 -->
+    <!-- blob contrib key: blob_contributors:v21:5d9a30fe1fc925ac62b9e12ba7b0004e -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row">
@@ -896,10 +917,10 @@
            data-hotkey="w"
            title="Switch branches or tags">
     <i>Branch:</i>
-    <span class="css-truncate-target" data-menu-button>nytimes</span>
+    <span class="css-truncate-target" data-menu-button>master</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/mkezmkez/The_New_York_Times/ref-list/nytimes/.stickler.yml?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/microverseinc/linters-config/ref-list/master/css/.stickler.yml?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -907,29 +928,29 @@
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/mkezmkez/The_New_York_Times/find/nytimes"
+          <a href="/microverseinc/linters-config/find/master"
                 class="js-pjax-capture-input btn btn-sm BtnGroup-item"
                 data-pjax
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value=".stickler.yml" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="css/.stickler.yml" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/mkezmkez/The_New_York_Times/tree/nytimes"><span>The_New_York_Times</span></a></span></span><span class="separator">/</span><strong class="final-path">.stickler.yml</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/microverseinc/linters-config"><span>linters-config</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/microverseinc/linters-config/tree/master/css"><span>css</span></a></span><span class="separator">/</span><strong class="final-path">.stickler.yml</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/mkezmkez/The_New_York_Times/find/nytimes"
+        <a href="/microverseinc/linters-config/find/master"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value=".stickler.yml" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="css/.stickler.yml" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -937,7 +958,7 @@
 
 
 
-    <include-fragment src="/mkezmkez/The_New_York_Times/contributors/nytimes/.stickler.yml" class="Box Box--condensed commit-loader">
+    <include-fragment src="/microverseinc/linters-config/contributors/master/css/.stickler.yml" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -964,23 +985,23 @@
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/mkezmkez/The_New_York_Times/raw/nytimes/.stickler.yml">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/mkezmkez/The_New_York_Times/blame/nytimes/.stickler.yml">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/mkezmkez/The_New_York_Times/commits/nytimes/.stickler.yml">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/microverseinc/linters-config/raw/master/css/.stickler.yml">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/microverseinc/linters-config/blame/master/css/.stickler.yml">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/microverseinc/linters-config/commits/master/css/.stickler.yml">History</a>
     </div>
 
 
     <div>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/mkezmkez/The_New_York_Times/edit/nytimes/.stickler.yml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="C1F+mPuyH4h9fuyky5G5vr/oe3Qp9nnuiixrRTgyDVo91esJqIeioFTWJP9TfKw0GxtcbaLzEfPaRWqqmtf67w==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/microverseinc/linters-config/edit/master/css/.stickler.yml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="dkIBifT2m8hkl43Xs3Cb2adI9rNHn+E5bxq5fLEKxdDasZ9mN6KrAIjJGWrG4mhgvogpLQedN8JqQvx9Cysk7Q==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-                aria-label="Edit this file" data-hotkey="e" data-disable-with>
+                aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/mkezmkez/The_New_York_Times/delete/nytimes/.stickler.yml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YAzHHysrw0HnaWZNndaWmOpkWRd2vb0xDrgbaXK6jrScUwyDpu91uDU4wuDkjw3JVqtECTK75w8/1oMh4/RgvA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/microverseinc/linters-config/delete/master/css/.stickler.yml" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="WkTk5Amw0xj/N98teC5E2slFWa2ct+B0UTW7jEboHcO3lPHGe4kIg4oVl2eqmQ9JrAIeuGFEC/FHZHTcIuQILw==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Delete this file" data-disable-with>
+              aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
             </button>
 </form>    </div>
@@ -1025,7 +1046,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/mkezmkez/The_New_York_Times/blame/41189a57c5c39403cf73da078a19dcf3c6707090/.stickler.yml">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/microverseinc/linters-config/blame/d3f1673deb9f566bb93216631015d0eb69c64c6e/css/.stickler.yml">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/microverseinc/linters-config/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -1060,7 +1082,7 @@
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.49519s from unicorn-569dc4677c-b42vz">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.46794s from unicorn-7987d98944-5gthw">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
