@@ -13,7 +13,7 @@ nav {
   position: absolute;
   left: 0;
   right: 0;
-  top:  0;
+  top: 0;
 }
 
 .menu {
@@ -54,7 +54,7 @@ button:hover {
 
 .bar {
   background-color: transparent;
-  background: url(icon.png);
+  background-image: url(icon.png);
   background-size: 13px;
   background-repeat: no-repeat;
   background-position: 7%;
@@ -182,7 +182,7 @@ main {
 }
 
 .relatedimg {
-  clear:left;
+  clear: left;
   grid-template-columns: 1fr;
   width: 100%;
 }
