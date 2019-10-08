@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/mkezmkez/appleclone/tree/apple">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/assets/microverse-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">YOUR_TITLE</h3>
