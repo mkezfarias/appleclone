@@ -10,7 +10,6 @@ nav {
 .bodycont {
   display: flex;
   flex-flow: column nowrap;
-  margin-top: 0;
   margin: -10px auto auto auto;
   width: 1100px;
 }
@@ -178,10 +177,9 @@ main {
   margin-top: 2px;
 }
 
-.relcontainer > a > img{
+.relcontainer > a > img {
   max-width: 100%;
 }
-
 
 h6 {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
