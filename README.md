@@ -32,20 +32,13 @@
   <h3 align="center">4th Project. HTML & CSS3 Course. Apple Page Clone</h3>
 
   <p align="center">
-    In this project, I created a clone of a snapshot of Apple page from 2014 <https://web.archive.org/web/20140301004610/http://www.apple.com/>
-      <br>
-    Project created using HTML and CSS3, gradients and image backgrounds
-      <br>
-    Created by Luis Puente <https://github.com/mkezmkez>
-      <br>
-    To check it out live go to: <https://raw.githack.com/mkezmkez/appleclone/apple/index.html>
-      <br>
-    For more details about the YouTube Project and it's requirements go to: <https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients>
-      <br>
+
+<br>
     <a href="https://github.com/mkezmkez/appleclone/tree/apple"><strong>Explore the docs »</strong></a>
-      <br> 
+<br>
+<br> 
     <a href="https://raw.githack.com/mkezmkez/appleclone/apple/index.html">View Demo</a>
-      <br> 
+<br> 
     <a href="https://github.com/mkezmkez/appleclone/issues">Request Feature</a>
   </p>
 
@@ -56,7 +49,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+* [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
 * [License](#license)
@@ -68,7 +61,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+In this project, I created a clone of a snapshot of Apple page from 2014 <a href="https://web.archive.org/web/20140301004610/http://www.apple.com/"> View Source </a>
+<br>
+Project created using HTML and CSS3, gradients and image backgrounds
+<br>
+<br>
+For more details about the YouTube Project and it's requirements go to <a href="https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients"> The Odin Project</a>
 
 ### Built With
 
@@ -101,15 +99,15 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-No license required, project developed in educational eviroment
+No licenses required as project was developed in educational eviroment.
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@mkezmkez](https://twitter.com/mkezkmez) - puente.luism@gmail.com
+Luis Puente - [@mkezmkez](https://twitter.com/mkezkmez) - puente.luism@gmail.com
 
-Project Link: [https://github.com/mkezmkez/aopleclone](https://github.com/mkezmkez/appleclone)
+Project Link: [github.com/mkezmkez/appleclone](https://github.com/mkezmkez/appleclone)
 
 
 
