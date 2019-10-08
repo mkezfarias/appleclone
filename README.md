@@ -22,15 +22,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -38,33 +29,26 @@
     <img src="/assets/microverse-logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">4th Project. HTML & CSS3 Course. Apple Page Clone</h3>
 
   <p align="center">
-HTML & CSS3 Course
-
-Project #4. Apple Page Clone
-
-In this project, I created a clone of a snapshot of Apple page from 2014 <https://web.archive.org/web/20140301004610/http://www.apple.com/>
-
-Project created using HTML and CSS3, gradients and image backgrounds
-
-Created by Luis Puente <https://github.com/mkezmkez>
-
-To check it out live go to: <https://raw.githack.com/mkezmkez/appleclone/apple/index.html>
-
-For more details about the YouTube Project and it's requirements go to: <https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients>
-    <br />
-    <a href="https://github.com/github_username/repo"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo/issues">Request Feature</a>
+    In this project, I created a clone of a snapshot of Apple page from 2014 <https://web.archive.org/web/20140301004610/http://www.apple.com/>
+      <br>
+    Project created using HTML and CSS3, gradients and image backgrounds
+      <br>
+    Created by Luis Puente <https://github.com/mkezmkez>
+      <br>
+    To check it out live go to: <https://raw.githack.com/mkezmkez/appleclone/apple/index.html>
+      <br>
+    For more details about the YouTube Project and it's requirements go to: <https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients>
+      <br>
+    <a href="https://github.com/mkezmkez/appleclone/tree/apple"><strong>Explore the docs »</strong></a>
+      <br> 
+    <a href="https://raw.githack.com/mkezmkez/appleclone/apple/index.html">View Demo</a>
+      <br> 
+    <a href="https://github.com/mkezmkez/appleclone/issues">Request Feature</a>
   </p>
-</p>
+
 
 
 
@@ -74,10 +58,6 @@ For more details about the YouTube Project and it's requirements go to: <https:/
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -137,5 +117,3 @@ Project Link: [https://github.com/mkezmkez/aopleclone](https://github.com/mkezmk
 ## Acknowledgements
 
 * [LUIS PUENTE](https://github.com/mkezmkez)
-* []()
-* []()
